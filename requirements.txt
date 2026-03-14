@@ -1,3 +1,2 @@
-playwright>=1.46.0
-python-dotenv>=1.0.1
-asyncio>=3.4.3
+playwright
+python-dotenv
